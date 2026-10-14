@@ -183,7 +183,8 @@ body {
   height: calc(100vh - 48px);
   background-size: cover;
   background-position: center center;
-  width: calc(33.3333333333% - 48px);
+  background-repeat: no-repeat;
+  width: calc(28% - 48px);
 }
 
 /* Dark Body
